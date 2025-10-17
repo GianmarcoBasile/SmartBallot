@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GianmarcoBasile/SmartBallot-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GianmarcoBasile/SmartBallot-Backend
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/GianmarcoBasile/SmartBallot-Blockchain
