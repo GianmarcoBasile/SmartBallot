@@ -35,8 +35,9 @@ Questo repository contiene il progetto SmartBallot, una soluzione per votazioni 
 
 1. Clona il repository:
 
-	 git clone https://github.com/GianmarcoBasile/SmartBallot-Blockchain.git
-	 cd SmartBallot-Blockchain
+	 git clone https://github.com/GianmarcoBasile/SmartBallot.git
+	 cd SmartBallot
+   git submodule update --init --recursive
 
 2. Installazione dipendenze
 
